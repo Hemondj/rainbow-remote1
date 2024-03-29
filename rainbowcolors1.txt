@@ -4,4 +4,8 @@ Yellow is the third color of the rainbow.
 Green is the fourth color of the rainbow.
 Blue is the fifth color of the rainbow.
 Indigo is the sixth color of the rainbow.
+<<<<<<< HEAD
 Violet is the seventh color of the rainbow.
+=======
+Violet is the seventh color of the rainbow.
+>>>>>>> 4b3f4f392671dccc11144b9d0a17adb5cd06f961
